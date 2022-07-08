@@ -1,0 +1,59 @@
+.sitenav-link{
+  text-decoration: none;
+}
+/* .main{
+  background-color: black;
+  color:#fff;
+} */
+/* .main-line{
+  background-color: #252420;
+}
+
+.header{
+  background-color: #000;
+} */
+
+.hero{
+  background-color: #000;
+  color: #fff;
+}
+.main-line{
+  width: 200;
+  height: 200;
+ background-color:red;
+}
+.haper{
+  background-color:#000;
+  color: #fff;
+}
+.saw{
+width: 152px;
+height: 39px;
+background-color: orange;
+color: #fff;
+}
+.sitenav-lin{
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+.sitenav-list{
+  list-style: none;
+}
+ul li{
+  list-style: none;
+}
+.body{
+  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.p{
+width: 440px;
+height: 48px;
+  font-family: 'Roboto', sans-serif;
+}
+.h1{
+width: 373px;
+height: 96px;
+  font-family:'Roboto Condensed', sans-serif;
+}
